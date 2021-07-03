@@ -1,4 +1,4 @@
-### 种一棵树最好的时间是十年前，其次是现在 👋
+### 种一棵树最好的时间是十年前，其次是现在
 
 <!--
 **Zhao-kang/Zhao-kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
